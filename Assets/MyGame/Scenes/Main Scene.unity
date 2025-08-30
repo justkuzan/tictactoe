@@ -250,8 +250,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cell: {fileID: 8599952198729244142, guid: 955ed5868d2caab448c8ec4f0a71ee6b, type: 3}
-  width: 3
-  height: 3
 --- !u!114 &693259738
 MonoBehaviour:
   m_ObjectHideFlags: 0
